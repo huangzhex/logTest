@@ -1,0 +1,2 @@
+# logTest
+通过logback调用rabbitMq传输日志到logstash中
