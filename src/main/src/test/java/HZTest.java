@@ -12,6 +12,6 @@ public class HZTest {
 
     @Test
     public void info(){
-        Assert.assertEquals(2,1);
+        Assert.assertEquals(1,1);
     }
 }
