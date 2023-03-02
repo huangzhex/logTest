@@ -7,7 +7,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Created by huangzhe on 2017/12/11.
  */
-@Configuration
+//@Configuration
 public class RabbitConfig {
     @Bean
     public Queue tbiQueue() {
